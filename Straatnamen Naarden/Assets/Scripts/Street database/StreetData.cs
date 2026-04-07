@@ -3,8 +3,7 @@ using UnityEngine;
 
 [System.Serializable]
 public class StreetData
-{
-    [System.NonSerialized] 
+{ 
     public string streetName;
     public List<MapPosition> positions = new List<MapPosition>();
     public Vector2 GetPositionForRegion(Region region)
