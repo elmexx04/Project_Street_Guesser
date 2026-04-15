@@ -24,6 +24,10 @@ public class QuizSettings : MonoBehaviour
 
     public void Start()
     {
+        UpdateUI();
+    }
+    public void UpdateUI()
+    {
         poolSizeText.text = poolSize.ToString();
         guessDistanceText.text = guessDistance.ToString() + " units";
         markAsLearnedText.text = markAsLearned.ToString();
