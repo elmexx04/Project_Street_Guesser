@@ -8193,921 +8193,1133 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::StreetDatabase
   streets:
-  - positions:
+  - streetName: Aalscholverstraat
+    positions:
     - score: 0
       position: {x: -670, y: 128.12506}
       region: 0
-    - score: 0
-      position: {x: 0, y: 0}
-      region: 1
-  - positions:
+  - streetName: Abri
+    positions:
     - score: 0
       position: {x: -176, y: -117.875}
       region: 0
-  - positions:
+  - streetName: Adriaan Dortsmanplein
+    positions:
     - score: 0
       position: {x: -150, y: -17.875}
       region: 0
-  - positions:
+  - streetName: Albert Grootlaan
+    positions:
     - score: 0
       position: {x: -451, y: -300.875}
       region: 0
-  - positions:
+  - streetName: Albertine Agneslaan
+    positions:
     - score: 0
       position: {x: -366, y: -133.87497}
       region: 0
-  - positions:
+  - streetName: Alexanderlaan
+    positions:
     - score: 0
       position: {x: -303, y: -131.875}
       region: 0
-  - positions:
+  - streetName: Amersfoortsestraatweg
+    positions:
     - score: 0
       position: {x: 404, y: -377.875}
       region: 0
-  - positions:
+  - streetName: Amsterdamsestraatweg
+    positions:
     - score: 0
       position: {x: -679, y: 203.125}
       region: 0
-  - positions:
+  - streetName: Anna Meursstraat
+    positions:
     - score: 0
       position: {x: -593, y: 37.125}
       region: 0
-  - positions:
+  - streetName: Anna Paulownalaan
+    positions:
     - score: 0
       position: {x: -579, y: -130.875}
       region: 0
-  - positions:
+  - streetName: Anna van Burenlaan
+    positions:
     - score: 0
       position: {x: -370, y: -86.875}
       region: 0
-  - positions:
+  - streetName: B. van Rooijenstraat
+    positions:
     - score: 0
       position: {x: -538, y: 55.12506}
       region: 0
-  - positions:
+  - streetName: Bachlaan
+    positions:
     - score: 0
       position: {x: 200.00012, y: -201.875}
       region: 0
-    - score: 0
-      position: {x: 0, y: 0}
-      region: 1
-  - positions:
+  - streetName: Baljuw
+    positions:
     - score: 0
       position: {x: -597, y: -229.87494}
       region: 0
-  - positions:
+  - streetName: Bastion
+    positions:
     - score: 0
       position: {x: 220.00012, y: -25.875}
       region: 0
-  - positions:
+  - streetName: Beethovenlaan
+    positions:
     - score: 0
       position: {x: 185.00012, y: -168.87497}
       region: 0
-  - positions:
+  - streetName: Beijert
+    positions:
     - score: 0
       position: {x: -184, y: -35.875}
       region: 0
-  - positions:
+  - streetName: Bernard Zweerslaan
+    positions:
     - score: 0
       position: {x: 227, y: -219.87494}
       region: 0
-  - positions:
+  - streetName: Binnenhof
+    positions:
     - score: 0
       position: {x: -363, y: -284.87494}
       region: 0
-  - positions:
+  - streetName: Bollelaan
+    positions:
     - score: 0
       position: {x: 491, y: -213.87497}
       region: 0
-  - positions:
+  - streetName: Bolwerk
+    positions:
     - score: 0
       position: {x: -378, y: 271.125}
       region: 0
-  - positions:
+  - streetName: Boomgat
+    positions:
     - score: 0
       position: {x: -478.00003, y: 271.125}
       region: 0
-  - positions:
+  - streetName: Brediusweg
+    positions:
     - score: 0
       position: {x: 61, y: -320.875}
       region: 0
-  - positions:
+  - streetName: Bronsstraat
+    positions:
     - score: 0
       position: {x: -490, y: 159.125}
       region: 0
-  - positions:
+  - streetName: Burgemeester Jur. Visserlaan
+    positions:
     - score: 0
       position: {x: -496.99997, y: -62.875}
       region: 0
-  - positions:
+  - streetName: Burgemeester M.P. van Wettumweg
+    positions:
     - score: 0
       position: {x: -298, y: -64.87494}
       region: 0
-  - positions:
+  - streetName: Burgemeester Wesselingplein
+    positions:
     - score: 0
       position: {x: -266, y: 4.125}
       region: 0
-  - positions:
+  - streetName: Burgemeester van Hasseltlaan
+    positions:
     - score: 0
       position: {x: -309, y: -280.875}
       region: 0
-  - positions:
+  - streetName: Bussummerstraat
+    positions:
     - score: 0
       position: {x: -233, y: -19.874939}
       region: 0
-  - positions:
+  - streetName: Cattenhagestraat
+    positions:
     - score: 0
       position: {x: -247, y: 4.125}
       region: 0
-  - positions:
+  - streetName: Charlotte de Bourbonlaan
+    positions:
     - score: 0
       position: {x: -616, y: -126.875}
       region: 0
-  - positions:
+  - streetName: Chopinlaan
+    positions:
     - score: 0
       position: {x: 140.00012, y: -192.875}
       region: 0
-  - positions:
+  - streetName: Chroomstraat
+    positions:
     - score: 0
       position: {x: -646, y: 191.125}
       region: 0
-  - positions:
+  - streetName: Churchillstraat
+    positions:
     - score: 0
       position: {x: -663, y: 117.125}
       region: 0
-  - positions:
+  - streetName: Cobralaan
+    positions:
     - score: 0
       position: {x: 61, y: -214.87494}
       region: 0
-  - positions:
+  - streetName: Comeniuslaan
+    positions:
     - score: 0
       position: {x: -266, y: -292.875}
       region: 0
-  - positions:
+  - streetName: Constantlaan
+    positions:
     - score: 0
       position: {x: 45.00006, y: -219.87494}
       region: 0
-  - positions:
+  - streetName: Corneillelaan
+    positions:
     - score: 0
       position: {x: 60.00006, y: -231.875}
       region: 0
-  - positions:
+  - streetName: Cort van der Lindenlaan
+    positions:
     - score: 0
       position: {x: -546, y: -237.875}
       region: 0
-  - positions:
+  - streetName: Diaconessenlaan
+    positions:
     - score: 0
       position: {x: -27, y: -143.87497}
       region: 0
-  - positions:
+  - streetName: Dirk Tersteeglaan
+    positions:
     - score: 0
       position: {x: -28, y: -162.875}
       region: 0
-  - positions:
+  - streetName: Dobbestraat
+    positions:
     - score: 0
       position: {x: -619, y: 127.125}
       region: 0
-  - positions:
+  - streetName: Dr. Anthon van der Horstlaan
+    positions:
     - score: 0
       position: {x: 221, y: -164.87494}
       region: 0
-  - positions:
+  - streetName: Drossaard
+    positions:
     - score: 0
       position: {x: -599, y: -196.875}
       region: 0
-  - positions:
+  - streetName: Dubelaarstraat
+    positions:
     - score: 0
       position: {x: -594, y: 125.125}
       region: 0
-  - positions:
+  - streetName: Duivensteeg
+    positions:
     - score: 0
       position: {x: -152, y: 4.125}
       region: 0
-  - positions:
+  - streetName: Evert de Bruijnstraat
+    positions:
     - score: 0
       position: {x: -623, y: 82.125}
       region: 0
-  - positions:
+  - streetName: Eilandlaan
+    positions:
     - score: 0
       position: {x: -547, y: 404.12506}
       region: 0
-  - positions:
+  - streetName: Energiestraat
+    positions:
     - score: 0
       position: {x: -481, y: 148.12506}
       region: 0
-  - positions:
+  - streetName: Ernst Casimirlaan
+    positions:
     - score: 0
       position: {x: -422, y: -140.875}
       region: 0
-  - positions:
+  - streetName: Ferdinand Bollaan
+    positions:
     - score: 0
       position: {x: -23, y: -222.875}
       region: 0
-  - positions:
+  - streetName: Flevolaan
+    positions:
     - score: 0
       position: {x: 637.9999, y: -209.87494}
       region: 0
-  - positions:
+  - streetName: Floris Voslaan
+    positions:
     - score: 0
       position: {x: 589, y: -223.87497}
       region: 0
-  - positions:
+  - streetName: Frans Halslaan
+    positions:
     - score: 0
       position: {x: -20, y: -240.875}
       region: 0
-  - positions:
+  - streetName: Franse Pad
+    positions:
     - score: 0
       position: {x: -637, y: 61.125}
       region: 0
-  - positions:
+  - streetName: G. Schipperstraat
+    positions:
     - score: 0
       position: {x: -488.00003, y: 59.125}
       region: 0
-  - positions:
+  - streetName: Galerij
+    positions:
     - score: 0
       position: {x: -346, y: 298.125}
       region: 0
-  - positions:
+  - streetName: Gansoordstraat
+    positions:
     - score: 0
       position: {x: -120, y: 13.125}
       region: 0
-  - positions:
+  - streetName: Generaal Kraijenhoffstraat
+    positions:
     - score: 0
       position: {x: -490, y: 43.125}
       region: 0
-  - positions:
+  - streetName: Gerard Doulaan
+    positions:
     - score: 0
       position: {x: 11, y: -239.87494}
       region: 0
-  - positions:
+  - streetName: Godelindeweg
+    positions:
     - score: 0
       position: {x: -107, y: -190.875}
       region: 0
-  - positions:
+  - streetName: Goeman Borgesiuslaan
+    positions:
     - score: 0
       position: {x: -518, y: -222.875}
       region: 0
-  - positions:
+  - streetName: Gooimeer
+    positions:
     - score: 0
       position: {x: -769, y: 273.125}
       region: 0
-  - positions:
+  - streetName: Graaf Adolflaan
+    positions:
     - score: 0
       position: {x: -540, y: -146.875}
       region: 0
-  - positions:
+  - streetName: Graaf Janlaan
+    positions:
     - score: 0
       position: {x: -351, y: -228.87497}
       region: 0
-  - positions:
+  - streetName: Graaf Lodewijklaan
+    positions:
     - score: 0
       position: {x: -273, y: -214.87494}
       region: 0
-  - positions:
+  - streetName: Graaf Willem de Oudelaan
+    positions:
     - score: 0
       position: {x: -442, y: -169.87494}
       region: 0
-  - positions:
+  - streetName: Hans Bentinckstraat
+    positions:
     - score: 0
       position: {x: -631, y: 68.125}
       region: 0
-  - positions:
+  - streetName: Havenlaan
+    positions:
     - score: 0
       position: {x: -542, y: 391.125}
       region: 0
-  - positions:
+  - streetName: Heemraad
+    positions:
     - score: 0
       position: {x: -629, y: -231.875}
       region: 0
-  - positions:
+  - streetName: Heemskerklaan
+    positions:
     - score: 0
       position: {x: -481, y: -267.875}
       region: 0
-  - positions:
+  - streetName: Hinlopenlaan
+    positions:
     - score: 0
       position: {x: 303, y: -290.875}
       region: 0
-  - positions:
+  - streetName: Hoofdgracht
+    positions:
     - score: 0
       position: {x: -476.99997, y: 340.125}
       region: 0
-  - positions:
+  - streetName: Huibert van Eijkenstraat
+    positions:
     - score: 0
       position: {x: -515, y: 48.125}
       region: 0
-  - positions:
+  - streetName: Huizerpoortstraat
+    positions:
     - score: 0
       position: {x: -113, y: 33.125}
       region: 0
-  - positions:
+  - streetName: Huizerstraatweg
+    positions:
     - score: 0
       position: {x: 169, y: -63.87497}
       region: 0
-  - positions:
+  - streetName: "H\xE4ndellaan"
+    positions:
     - score: 0
       position: {x: 206, y: -227.875}
       region: 0
-  - positions:
+  - streetName: IJsselmeerweg
+    positions:
     - score: 0
       position: {x: -654, y: 381.125}
       region: 0
-  - positions:
+  - streetName: J. Houtmanstraat
+    positions:
     - score: 0
       position: {x: -518, y: 83.12506}
       region: 0
-  - positions:
+  - streetName: J. van Woensel Kooylaan
+    positions:
     - score: 0
       position: {x: 582.0001, y: -208.87497}
       region: 0
-  - positions:
+  - streetName: J.P. van Rossumlaan
+    positions:
     - score: 0
       position: {x: 550, y: -243.87497}
       region: 0
-  - positions:
+  - streetName: Jac. P. Thijssepark
+    positions:
     - score: 0
       position: {x: -700, y: 159.125}
       region: 0
-  - positions:
+  - streetName: Jacobus Verhoeflaan
+    positions:
     - score: 0
       position: {x: -427, y: -304.87494}
       region: 0
-  - positions:
+  - streetName: Jan Massenstraat
+    positions:
     - score: 0
       position: {x: -150, y: 33.125}
       region: 0
-  - positions:
+  - streetName: Jan Steenlaan
+    positions:
     - score: 0
       position: {x: 54, y: -293.87497}
       region: 0
-  - positions:
+  - streetName: Jan Toebacklaan
+    positions:
     - score: 0
       position: {x: 166, y: -278.87497}
       region: 0
-  - positions:
+  - streetName: Jan ter Gouwweg
+    positions:
     - score: 0
       position: {x: -149, y: -231.875}
       region: 0
-  - positions:
+  - streetName: Jan van Goyenlaan
+    positions:
     - score: 0
       position: {x: -97, y: -265.875}
       region: 0
-  - positions:
+  - streetName: Johan Schimmelstraat
+    positions:
     - score: 0
       position: {x: -610, y: 114.125}
       region: 0
-  - positions:
+  - streetName: Johan Schoonderbeeklaan
+    positions:
     - score: 0
       position: {x: 218, y: -212.875}
       region: 0
-  - positions:
+  - streetName: Johan Willem Frisolaan
+    positions:
     - score: 0
       position: {x: -587, y: -138.87497}
       region: 0
-  - positions:
+  - streetName: Juliana van Stolberglaan
+    positions:
     - score: 0
       position: {x: -386, y: -211.875}
       region: 0
-  - positions:
+  - streetName: Julianalaan
+    positions:
     - score: 0
       position: {x: -266, y: -264.87494}
       region: 0
-  - positions:
+  - streetName: Kapitein G.A. Meijerweg
+    positions:
     - score: 0
       position: {x: -81, y: -65.875}
       region: 0
-  - positions:
+  - streetName: Karel Appellaan
+    positions:
     - score: 0
       position: {x: 72, y: -242.875}
       region: 0
-  - positions:
+  - streetName: Katrepel
+    positions:
     - score: 0
       position: {x: -184, y: 35.12506}
       region: 0
-  - positions:
+  - streetName: Katten
+    positions:
     - score: 0
       position: {x: -118, y: 51.125}
       region: 0
-  - positions:
+  - streetName: Keizer Ottoweg
+    positions:
     - score: 0
       position: {x: -510, y: -275.875}
       region: 0
-  - positions:
+  - streetName: Kerkpad
+    positions:
     - score: 0
       position: {x: -193, y: 1.1250305}
       region: 0
-  - positions:
+  - streetName: Keverdijk
+    positions:
     - score: 0
       position: {x: -617, y: 33.125}
       region: 0
-  - positions:
+  - streetName: Kloosterstraat
+    positions:
     - score: 0
       position: {x: -167, y: 31.12503}
       region: 0
-  - positions:
+  - streetName: Kobaltstraat
+    positions:
     - score: 0
       position: {x: -439, y: 149.125}
       region: 0
-  - positions:
+  - streetName: Kolfbaan
+    positions:
     - score: 0
       position: {x: -604, y: -368.87497}
       region: 0
-  - positions:
+  - streetName: Kolonel Falbastraat
+    positions:
     - score: 0
       position: {x: -617, y: 53.125}
       region: 0
-  - positions:
+  - streetName: "Kolonel Micha\xEBlstraat"
+    positions:
     - score: 0
       position: {x: -598, y: 101.125}
       region: 0
-  - positions:
+  - streetName: Kolonel Palmstraat
+    positions:
     - score: 0
       position: {x: -643, y: 60.12506}
       region: 0
-  - positions:
+  - streetName: Kolonel Verveerstraat
+    positions:
     - score: 0
       position: {x: -558, y: 91.125}
       region: 0
-  - positions:
+  - streetName: Kolonel van Brienenstraat
+    positions:
     - score: 0
       position: {x: -490, y: 93.12506}
       region: 0
-  - positions:
+  - streetName: Koningin Wilhelminalaan
+    positions:
     - score: 0
       position: {x: -390, y: -119.87494}
       region: 0
-  - positions:
+  - streetName: Kooltjesbuurt
+    positions:
     - score: 0
       position: {x: -233, y: 40.12506}
       region: 0
-  - positions:
+  - streetName: Korte bedekte weg
+    positions:
     - score: 0
       position: {x: -169, y: -97.875}
       region: 0
-  - positions:
+  - streetName: Kuyperlaan
+    positions:
     - score: 0
       position: {x: -551, y: -332.875}
       region: 0
-  - positions:
+  - streetName: Laegieskampweg
+    positions:
     - score: 0
       position: {x: -615, y: -351.875}
       region: 0
-  - positions:
+  - streetName: Lambertus Hortensiuslaan
+    positions:
     - score: 0
       position: {x: -220, y: -234.87494}
       region: 0
-  - positions:
+  - streetName: Lange bedekte weg
+    positions:
     - score: 0
       position: {x: -375, y: 2.125}
       region: 0
-  - positions:
+  - streetName: Lepelaarstraat
+    positions:
     - score: 0
       position: {x: -703, y: 122.125}
       region: 0
-  - positions:
+  - streetName: Lisztlaan
+    positions:
     - score: 0
       position: {x: 152, y: -170.875}
       region: 0
-  - positions:
+  - streetName: Louise de Colignylaan
+    positions:
     - score: 0
       position: {x: -384, y: -181.875}
       region: 0
-  - positions:
+  - streetName: Mackaylaan
+    positions:
     - score: 0
       position: {x: -470, y: -242.875}
       region: 0
-  - positions:
+  - streetName: Mahlerlaan
+    positions:
     - score: 0
       position: {x: 119, y: -134.87494}
       region: 0
-  - positions:
+  - streetName: Majoor Kampsstraat
+    positions:
     - score: 0
       position: {x: -563, y: 61.125}
       region: 0
-  - positions:
+  - streetName: Maria Louiselaan
+    positions:
     - score: 0
       position: {x: -596, y: -121.875}
       region: 0
-  - positions:
+  - streetName: Marktstraat
+    positions:
     - score: 0
       position: {x: -178, y: 10.125061}
       region: 0
-  - positions:
+  - streetName: Meentweg
+    positions:
     - score: 0
       position: {x: 502.99988, y: 49.125}
       region: 0
-  - positions:
+  - streetName: Meerkade
+    positions:
     - score: 0
       position: {x: -737, y: -22.875}
       region: 0
-  - positions:
+  - streetName: Meerstraat
+    positions:
     - score: 0
       position: {x: -470, y: 35.12506}
       region: 0
-  - positions:
+  - streetName: Meerweg
+    positions:
     - score: 0
       position: {x: -490, y: -402.875}
       region: 0
-  - positions:
+  - streetName: Mozartlaan
+    positions:
     - score: 0
       position: {x: 250.00012, y: -224.87494}
       region: 0
-  - positions:
+  - streetName: Naardermeer
+    positions:
     - score: 0
       position: {x: -731, y: -300.875}
       region: 0
-  - positions:
+  - streetName: Naarderpoort
+    positions:
     - score: 0
       position: {x: 5.000061, y: -165.875}
       region: 0
-  - positions:
+  - streetName: Nagtglaslaan
+    positions:
     - score: 0
       position: {x: -489, y: -307.875}
       region: 0
-  - positions:
+  - streetName: Nesciohof
+    positions:
     - score: 0
       position: {x: -654, y: 145.125}
       region: 0
-  - positions:
+  - streetName: Nieuwe Haven
+    positions:
     - score: 0
       position: {x: -235, y: 23.125}
       region: 0
-  - positions:
+  - streetName: Nieuwe Steeg
+    positions:
     - score: 0
       position: {x: -140, y: 12.125}
       region: 0
-  - positions:
+  - streetName: Nikkelstraat
+    positions:
     - score: 0
       position: {x: -511, y: 192.125}
       region: 0
-  - positions:
+  - streetName: Onderwal
+    positions:
     - score: 0
       position: {x: -623, y: 316.125}
       region: 0
-  - positions:
+  - streetName: Oostwalstraat
+    positions:
     - score: 0
       position: {x: -91, y: 14.125}
       region: 0
-  - positions:
+  - streetName: Oud Blaricumerweg
+    positions:
     - score: 0
       position: {x: 491, y: -262.875}
       region: 0
-  - positions:
+  - streetName: Oude Haven
+    positions:
     - score: 0
       position: {x: -171, y: 45.12506}
       region: 0
-  - positions:
+  - streetName: Over de Tol
+    positions:
     - score: 0
       position: {x: -104, y: -109.87494}
       region: 0
-  - positions:
+  - streetName: Overscheenseweg
+    positions:
     - score: 0
       position: {x: -811, y: 21.12503}
       region: 0
-  - positions:
+  - streetName: Pastoorstraat
+    positions:
     - score: 0
       position: {x: -230, y: 6.1250305}
       region: 0
-  - positions:
+  - streetName: Pater Wijnterlaan
+    positions:
     - score: 0
       position: {x: -290, y: -260.875}
       region: 0
-  - positions:
+  - streetName: Paulus Potterlaan
+    positions:
     - score: 0
       position: {x: -42, y: -295.875}
       region: 0
-  - positions:
+  - streetName: Paulus van Loolaan
+    positions:
     - score: 0
       position: {x: 244, y: -266.875}
       region: 0
-  - positions:
+  - streetName: Peperstraat
+    positions:
     - score: 0
       position: {x: -192, y: -31.875}
       region: 0
-  - positions:
+  - streetName: Piersonlaan
+    positions:
     - score: 0
       position: {x: -388, y: -256.875}
       region: 0
-  - positions:
+  - streetName: Pijlstraat
+    positions:
     - score: 0
       position: {x: -117, y: 23.125}
       region: 0
-  - positions:
+  - streetName: Plein 1940-1945
+    positions:
     - score: 0
       position: {x: -677, y: 86.125}
       region: 0
-  - positions:
+  - streetName: Prins Frederik Hendriklaan
+    positions:
     - score: 0
       position: {x: -368, y: -148.87497}
       region: 0
-  - positions:
+  - streetName: Prins Willem van Oranjelaan
+    positions:
     - score: 0
       position: {x: -330, y: -240.875}
       region: 0
-  - positions:
+  - streetName: Prinses Beatrixhof
+    positions:
     - score: 0
       position: {x: -453.00003, y: -68.87497}
       region: 0
-  - positions:
+  - streetName: Prinses Irenehof
+    positions:
     - score: 0
       position: {x: -501, y: -103.87497}
       region: 0
-  - positions:
+  - streetName: Prinses Margriethof
+    positions:
     - score: 0
       position: {x: -523, y: -80.875}
       region: 0
-  - positions:
+  - streetName: Prinses Marijkehof
+    positions:
     - score: 0
       position: {x: -454, y: -96.875}
       region: 0
-  - positions:
+  - streetName: Raadhuisstraat
+    positions:
     - score: 0
       position: {x: -150, y: 12.125}
       region: 0
-  - positions:
+  - streetName: Redan
+    positions:
     - score: 0
       position: {x: -436, y: 313.125}
       region: 0
-  - positions:
+  - streetName: Regenboogstraat
+    positions:
     - score: 0
       position: {x: -168, y: 20.125061}
       region: 0
-  - positions:
+  - streetName: Rembrandtlaan
+    positions:
     - score: 0
       position: {x: 57.99994, y: -273.87497}
       region: 0
-  - positions:
+  - streetName: Rijksweg
+    positions:
     - score: 0
       position: {x: -599, y: -60.875}
       region: 0
-  - positions:
+  - streetName: Roelofslaantje
+    positions:
     - score: 0
       position: {x: 767.9999, y: 247.125}
       region: 0
-  - positions:
+  - streetName: Roerdompstraat
+    positions:
     - score: 0
       position: {x: -688, y: 116.125}
       region: 0
-  - positions:
+  - streetName: Rubberstraat
+    positions:
     - score: 0
       position: {x: -571, y: 185.125}
       region: 0
-  - positions:
+  - streetName: Rubenslaan
+    positions:
     - score: 0
       position: {x: -84, y: -231.875}
       region: 0
-  - positions:
+  - streetName: Ruijsdaelplein
+    positions:
     - score: 0
       position: {x: -121, y: -1.875}
       region: 0
-  - positions:
+  - streetName: "R\xF6elllaan"
+    positions:
     - score: 0
       position: {x: -479, y: -217.875}
       region: 0
-  - positions:
+  - streetName: Sandtmannlaan
+    positions:
     - score: 0
       position: {x: -519, y: -330.875}
       region: 0
-  - positions:
+  - streetName: Schepenen
+    positions:
     - score: 0
       position: {x: -588, y: -249.87494}
       region: 0
-  - positions:
+  - streetName: Schout
+    positions:
     - score: 0
       position: {x: -598, y: -210.875}
       region: 0
-  - positions:
+  - streetName: Schubertlaan
+    positions:
     - score: 0
       position: {x: 172, y: -130.875}
       region: 0
-  - positions:
+  - streetName: Smidtstraat
+    positions:
     - score: 0
       position: {x: -623, y: 106.125}
       region: 0
-  - positions:
+  - streetName: Sophialaan
+    positions:
     - score: 0
       position: {x: -308, y: -159.87494}
       region: 0
-  - positions:
+  - streetName: St. Annastraat
+    positions:
     - score: 0
       position: {x: -193, y: -10.875}
       region: 0
-  - positions:
+  - streetName: St. Vitusstraat
+    positions:
     - score: 0
       position: {x: -253, y: -11.875}
       region: 0
-  - positions:
+  - streetName: Staalstraat
+    positions:
     - score: 0
       position: {x: -373, y: 97.125}
       region: 0
-  - positions:
+  - streetName: Stadhouder Willem II laan
+    positions:
     - score: 0
       position: {x: -337, y: -139.87494}
       region: 0
-  - positions:
+  - streetName: Strandlaan
+    positions:
     - score: 0
       position: {x: -549, y: 418.125}
       region: 0
-  - positions:
+  - streetName: Ten Boschstraat
+    positions:
     - score: 0
       position: {x: -571, y: 101.125}
       region: 0
-  - positions:
+  - streetName: Tenierslaan
+    positions:
     - score: 0
       position: {x: 42.00006, y: -233.87497}
       region: 0
-  - positions:
+  - streetName: Terborchlaan
+    positions:
     - score: 0
       position: {x: -72, y: -195.875}
       region: 0
-  - positions:
+  - streetName: Tets van Goudriaanstraat
+    positions:
     - score: 0
       position: {x: -515, y: 100.125}
       region: 0
-  - positions:
+  - streetName: Thesaurier
+    positions:
     - score: 0
       position: {x: -621, y: -188.87497}
       region: 0
-  - positions:
+  - streetName: Thierenshof
+    positions:
     - score: 0
       position: {x: -238, y: -144.87494}
       region: 0
-  - positions:
+  - streetName: Thierensweg
+    positions:
     - score: 0
       position: {x: -251, y: -168.87497}
       region: 0
-  - positions:
+  - streetName: Thorbeckelaan
+    positions:
     - score: 0
       position: {x: -422, y: -249.87494}
       region: 0
-  - positions:
+  - streetName: Travers
+    positions:
     - score: 0
       position: {x: -384, y: 312.125}
       region: 0
-  - positions:
+  - streetName: Turfpoortstraat
+    positions:
     - score: 0
       position: {x: -183, y: -21.875}
       region: 0
-  - positions:
+  - streetName: Vaartweg
+    positions:
     - score: 0
       position: {x: -481.99997, y: 109.125}
       region: 0
-  - positions:
+  - streetName: Valkeveenselaan
+    positions:
     - score: 0
       position: {x: 662.0001, y: 56.125}
       region: 0
-  - positions:
+  - streetName: Verdilaan
+    positions:
     - score: 0
       position: {x: 139, y: -155.875}
       region: 0
-  - positions:
+  - streetName: Verlengde Fortlaan
+    positions:
     - score: 0
       position: {x: -625, y: -260.875}
       region: 0
-  - positions:
+  - streetName: Venuslaan
+    positions:
     - score: 0
       position: {x: 571, y: 93.12506}
       region: 0
-  - positions:
+  - streetName: Vermeerlaan
+    positions:
     - score: 0
       position: {x: 125.00012, y: -272.875}
       region: 0
-  - positions:
+  - streetName: Vierschaar
+    positions:
     - score: 0
       position: {x: -579, y: -200.875}
       region: 0
-  - positions:
+  - streetName: Vincent van Goghlaan
+    positions:
     - score: 0
       position: {x: -83, y: -292.875}
       region: 0
-  - positions:
+  - streetName: Vogellaantje
+    positions:
     - score: 0
       position: {x: 584, y: 12.125}
       region: 0
-  - positions:
+  - streetName: Voormeer
+    positions:
     - score: 0
       position: {x: -650, y: -114.87494}
       region: 0
-  - positions:
+  - streetName: Vroedschap
+    positions:
     - score: 0
       position: {x: -590, y: -166.875}
       region: 0
-  - positions:
+  - streetName: Wagnerlaan
+    positions:
     - score: 0
       position: {x: 174, y: -195.875}
       region: 0
-  - positions:
+  - streetName: Walgang
+    positions:
     - score: 0
       position: {x: -429, y: 277.125}
       region: 0
-  - positions:
+  - streetName: Waterkeringpad
+    positions:
     - score: 0
       position: {x: 402.00012, y: 138.12506}
       region: 0
-  - positions:
+  - streetName: Westwalstraat
+    positions:
     - score: 0
       position: {x: -220, y: -47.875}
       region: 0
-  - positions:
+  - streetName: "Wethouder K\xF6niglaan"
+    positions:
     - score: 0
       position: {x: -240, y: -267.875}
       region: 0
-  - positions:
+  - streetName: Wevershof
+    positions:
     - score: 0
       position: {x: -168, y: 34.125}
       region: 0
-  - positions:
+  - streetName: Wijde Steeg
+    positions:
     - score: 0
       position: {x: -232, y: -8.8749695}
       region: 0
-  - positions:
+  - streetName: Wijkplaats
+    positions:
     - score: 0
       position: {x: -545, y: 296.125}
       region: 0
-  - positions:
+  - streetName: Wuijvert
+    positions:
     - score: 0
       position: {x: -158, y: 16.12503}
       region: 0
-  - positions:
+  - streetName: Zusterenstraat
+    positions:
     - score: 0
       position: {x: -127, y: 48.125}
       region: 0
-  - positions:
+  - streetName: Zwarteweg
+    positions:
     - score: 0
       position: {x: -483.00003, y: -332.875}
       region: 0
-  - positions:
+  - streetName: van Dijcklaan
+    positions:
     - score: 0
       position: {x: -50, y: -236.875}
       region: 0
-  - positions:
+  - streetName: van Hall-laan
+    positions:
     - score: 0
       position: {x: -446, y: -259.87494}
       region: 0
-  - positions:
+  - streetName: van Hogendorplaan
+    positions:
     - score: 0
       position: {x: -435, y: 39.125}
       region: 0
-  - positions:
+  - streetName: van Houtenlaan
+    positions:
     - score: 0
       position: {x: -473.00003, y: -228.87497}
       region: 0
-  - positions:
+  - streetName: van Lijndenlaan
+    positions:
     - score: 0
       position: {x: -456, y: -282.875}
       region: 0
-  - positions:
+  - streetName: van Limburg Stirumlaan
+    positions:
     - score: 0
       position: {x: -429, y: 19.125}
       region: 0
-  - positions:
+  - streetName: van Ostadelaan
+    positions:
     - score: 0
       position: {x: 35.00006, y: -253.87497}
       region: 0
-  - positions:
-    - score: 0
-      position: {x: -534, y: -273.87497}
-      region: 0
-  - positions:
+  - streetName: van der Duyn van Maasdamlaan
+    positions:
     - score: 0
       position: {x: -488.00003, y: 13.125}
       region: 0
-  - positions:
+  - streetName: van der Helstlaan
+    positions:
     - score: 0
       position: {x: -109, y: -207.875}
       region: 0
-  - positions:
+  - streetName: Messchaertlaan
+    positions:
     - score: 0
       position: {x: 611, y: -81.875}
       region: 0
-  - positions:
+  - streetName: Stukkenlaan
+    positions:
     - score: 0
       position: {x: 640, y: -105.875}
       region: 0
-  - positions:
+  - streetName: Sterreboslaan
+    positions:
     - score: 0
       position: {x: 672.9999, y: -125.875}
       region: 0
-  - positions:
+  - streetName: Drafnalaantje
+    positions:
     - score: 0
       position: {x: 629, y: -18.87497}
       region: 0
-  - positions:
+  - streetName: Naarderstraat
+    positions:
     - score: 0
       position: {x: 722.9999, y: -40.875}
       region: 0
-  - positions:
+  - streetName: Admiraal Helfrichweg
+    positions:
     - score: 0
       position: {x: -212, y: 91.125}
       region: 0
-  - positions:
+  - streetName: Oud Huizerweg
+    positions:
     - score: 0
       position: {x: 757.9999, y: 225.125}
       region: 0
-  - positions:
-    - score: 0
-      position: {x: 704, y: 245.125}
-      region: 0
-  - positions:
+  - streetName: Zuiderzeeweg
+    positions:
     - score: 0
       position: {x: 704, y: 245.125}
       region: 0
@@ -9222,7 +9434,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -768, y: 0}
-  m_SizeDelta: {x: 160, y: 30}
+  m_SizeDelta: {x: 200, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1126876408
 MonoBehaviour:
@@ -17580,7 +17792,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Button
+  m_text: reset progress
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

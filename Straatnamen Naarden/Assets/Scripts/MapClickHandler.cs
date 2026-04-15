@@ -26,6 +26,7 @@ public class MapClickHandler : MonoBehaviour, IPointerClickHandler
 
         marker.anchoredPosition = localPoint;
         marker.gameObject.SetActive(true);
+        Debug.Log("Kaart geklikt op: " + localPoint);
     }
 
     public void ResetClick()
