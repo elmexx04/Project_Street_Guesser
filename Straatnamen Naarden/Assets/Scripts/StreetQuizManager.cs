@@ -107,6 +107,7 @@ public class StreetQuizManager : MonoBehaviour
             poolInitialized = true;
         }
 
+        // Kies random straat
         if (activePool.Count == 1)
         {
             currentStreet = activePool[0];
