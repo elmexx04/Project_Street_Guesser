@@ -45,18 +45,6 @@ public class SaveSettings : MonoBehaviour
 		if (PlayerPrefs.HasKey(KeyPointsForWrong)) quizSettings.pointsForWrong = PlayerPrefs.GetInt(KeyPointsForWrong);
 		if (PlayerPrefs.HasKey(KeyPointsForSkip)) quizSettings.pointsForSkip = PlayerPrefs.GetInt(KeyPointsForSkip);
 
-		// Propagate values to linked quizManager if present
-		if (quizSettings.quizManager != null)
-		{
-			quizSettings.quizManager.poolSize = quizSettings.poolSize;
-			quizSettings.quizManager.guessDistance = quizSettings.guessDistance;
-			quizSettings.quizManager.scoreForNext = quizSettings.markAsLearned;
-			quizSettings.quizManager.maxMinusScore = quizSettings.maxMinusScore;
-			quizSettings.quizManager.pointsForCorrect = quizSettings.pointsForCorrect;
-			quizSettings.quizManager.pointsForWrong = quizSettings.pointsForWrong;
-			quizSettings.quizManager.pointsForSkip = quizSettings.pointsForSkip;
-		}
-
 		quizSettings.UpdateUI();
         quizSettings.LinkQuizManager();
 	}
@@ -72,17 +60,6 @@ public class SaveSettings : MonoBehaviour
 		quizSettings.pointsForCorrect = 1;
 		quizSettings.pointsForWrong = -1;
 		quizSettings.pointsForSkip = -1;
-
-		if (quizSettings.quizManager != null)
-		{
-			quizSettings.quizManager.poolSize = quizSettings.poolSize;
-			quizSettings.quizManager.guessDistance = quizSettings.guessDistance;
-			quizSettings.quizManager.scoreForNext = quizSettings.markAsLearned;
-			quizSettings.quizManager.maxMinusScore = quizSettings.maxMinusScore;
-			quizSettings.quizManager.pointsForCorrect = quizSettings.pointsForCorrect;
-			quizSettings.quizManager.pointsForWrong = quizSettings.pointsForWrong;
-			quizSettings.quizManager.pointsForSkip = quizSettings.pointsForSkip;
-		}
 
 		// Remove saved keys so defaults will be used on next load
 		PlayerPrefs.DeleteKey(KeyPoolSize);
