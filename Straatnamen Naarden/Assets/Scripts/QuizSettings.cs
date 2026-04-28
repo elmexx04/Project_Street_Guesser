@@ -36,12 +36,21 @@ public class QuizSettings : MonoBehaviour
         pointsForWrongText.text = pointsForWrong.ToString();
         pointsForSkipText.text = pointsForSkip.ToString();
     }
+    public void LinkQuizManager()
+    {
+        quizManager.poolSize = poolSize;
+        quizManager.guessDistance = guessDistance;
+        quizManager.scoreForNext = markAsLearned;
+        quizManager.maxMinusScore = maxMinusScore;
+        quizManager.pointsForCorrect = pointsForCorrect;
+        quizManager.pointsForWrong = pointsForWrong;
+        quizManager.pointsForSkip = pointsForSkip;
+    }
     public void PlusPoolSize()
     {
         if (poolSize < 20)
         {
             poolSize++;
-            quizManager.poolSize = poolSize;
             poolSizeText.text = poolSize.ToString();
         }
     }
@@ -50,7 +59,6 @@ public class QuizSettings : MonoBehaviour
         if (poolSize > 1)
         {
             poolSize--;
-            quizManager.poolSize = poolSize;
             poolSizeText.text = poolSize.ToString();
         }
     }
@@ -59,7 +67,6 @@ public class QuizSettings : MonoBehaviour
         if (guessDistance < 100)
         {
             guessDistance += 5;
-            quizManager.guessDistance = guessDistance;
             guessDistanceText.text = guessDistance.ToString() + " units";
         }
     }
@@ -68,7 +75,6 @@ public class QuizSettings : MonoBehaviour
         if (guessDistance > 5)
         {
             guessDistance -= 5;
-            quizManager.guessDistance = guessDistance;
             guessDistanceText.text = guessDistance.ToString() + " units";
         }
     }
@@ -77,7 +83,6 @@ public class QuizSettings : MonoBehaviour
         if (markAsLearned < 10)
         {
             markAsLearned++;
-            quizManager.scoreForNext = markAsLearned;
             markAsLearnedText.text = markAsLearned.ToString();
         }
     }
@@ -86,7 +91,6 @@ public class QuizSettings : MonoBehaviour
         if (markAsLearned > 1)
         {
             markAsLearned--;
-            quizManager.scoreForNext = markAsLearned;
             markAsLearnedText.text = markAsLearned.ToString();
         }
     }
@@ -95,7 +99,6 @@ public class QuizSettings : MonoBehaviour
         if (maxMinusScore > -10)
         {
             maxMinusScore--;
-            quizManager.maxMinusScore = maxMinusScore;
             maxMinusScoreText.text = maxMinusScore.ToString();
         }
     }
@@ -104,7 +107,6 @@ public class QuizSettings : MonoBehaviour
         if (maxMinusScore < -1)
         {
             maxMinusScore++;
-            quizManager.maxMinusScore = maxMinusScore;
             maxMinusScoreText.text = maxMinusScore.ToString();
         }
     }
@@ -113,7 +115,6 @@ public class QuizSettings : MonoBehaviour
         if (pointsForCorrect < 10)
         {
             pointsForCorrect++;
-            quizManager.pointsForCorrect = pointsForCorrect;
             pointsForCorrectText.text = pointsForCorrect.ToString();
         }
     }
@@ -122,7 +123,6 @@ public class QuizSettings : MonoBehaviour
         if (pointsForCorrect > 1)
         {
             pointsForCorrect--;
-            quizManager.pointsForCorrect = pointsForCorrect;
             pointsForCorrectText.text = pointsForCorrect.ToString();
         }
     }
@@ -131,7 +131,6 @@ public class QuizSettings : MonoBehaviour
         if (pointsForWrong < 0)
         {
             pointsForWrong++;
-            quizManager.pointsForWrong = pointsForWrong;
             pointsForWrongText.text = pointsForWrong.ToString();
         }
     }
@@ -140,7 +139,6 @@ public class QuizSettings : MonoBehaviour
         if (pointsForWrong > -10)
         {
             pointsForWrong--;
-            quizManager.pointsForWrong = pointsForWrong;
             pointsForWrongText.text = pointsForWrong.ToString();
         }
     }
@@ -149,7 +147,6 @@ public class QuizSettings : MonoBehaviour
         if (pointsForSkip < 0)
         {
             pointsForSkip++;
-            quizManager.pointsForSkip = pointsForSkip;
             pointsForSkipText.text = pointsForSkip.ToString();
         }
     }
@@ -158,7 +155,6 @@ public class QuizSettings : MonoBehaviour
         if (pointsForSkip > -10)
         {
             pointsForSkip--;
-            quizManager.pointsForSkip = pointsForSkip;
             pointsForSkipText.text = pointsForSkip.ToString();
         }
     }

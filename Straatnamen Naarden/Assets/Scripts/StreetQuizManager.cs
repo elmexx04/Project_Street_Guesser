@@ -200,13 +200,14 @@ public class StreetQuizManager : MonoBehaviour
 
             if (currentStreet.positions[0].score >= scoreForNext)
             {
+                Debug.Log("Straat geleerd: " + currentStreet.streetName);
+
                 activePool.Remove(currentStreet);
 
                 if (remainingStreets.Count > 0)
                 {
                     AddRandomStreetToPool();
                 }
-                Debug.Log("Straat geleerd: " + currentStreet.streetName);
 
                 feedbackText.text = "Correct! Straat geleerd!";
 
@@ -286,6 +287,13 @@ public class StreetQuizManager : MonoBehaviour
 
     void AddRandomStreetToPool()
     {
+        if (remainingStreets.Count == 0)
+        {
+            Debug.LogWarning("Geen straten meer om toe te voegen aan pool!");
+            return;
+        }
+        ;
+
         int index = Random.Range(0, remainingStreets.Count);
 
         activePool.Add(remainingStreets[index]);
