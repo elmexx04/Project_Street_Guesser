@@ -8233,6 +8233,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -670, y: 128.12506}
       region: 0
+    - score: 0
+      position: {x: -199.81213, y: 69.201965}
+      region: 3
   - streetName: Abri
     positions:
     - score: 0
@@ -8268,11 +8271,17 @@ MonoBehaviour:
     - score: 0
       position: {x: -679, y: 203.125}
       region: 0
+    - score: 0
+      position: {x: -242, y: 303}
+      region: 0
   - streetName: Anna Meursstraat
     positions:
     - score: 0
       position: {x: -593, y: 37.125}
       region: 0
+    - score: 0
+      position: {x: -54.084473, y: -208.73227}
+      region: 3
   - streetName: Anna Paulownalaan
     positions:
     - score: 0
@@ -8330,7 +8339,7 @@ MonoBehaviour:
       region: 0
   - streetName: Bolwerk
     positions:
-    - score: 0
+    - score: 2
       position: {x: -378, y: 271.125}
       region: 0
     - score: 0
@@ -8338,7 +8347,7 @@ MonoBehaviour:
       region: 1
   - streetName: Boomgat
     positions:
-    - score: 0
+    - score: 3
       position: {x: -478.00003, y: 271.125}
       region: 0
     - score: 0
@@ -8354,6 +8363,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -490, y: 159.125}
       region: 0
+    - score: 0
+      position: {x: 163, y: 177.125}
+      region: 3
   - streetName: Burgemeester Jur. Visserlaan
     positions:
     - score: 0
@@ -8399,11 +8411,17 @@ MonoBehaviour:
     - score: 0
       position: {x: -646, y: 191.125}
       region: 0
+    - score: 0
+      position: {x: -162, y: 271.125}
+      region: 3
   - streetName: Churchillstraat
     positions:
     - score: 0
       position: {x: -663, y: 117.125}
       region: 0
+    - score: 0
+      position: {x: -193.80286, y: 48.169067}
+      region: 3
   - streetName: Cobralaan
     positions:
     - score: 0
@@ -8444,6 +8462,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -619, y: 127.125}
       region: 0
+    - score: 0
+      position: {x: -109.671265, y: 70.704285}
+      region: 3
   - streetName: Dr. Anthon van der Horstlaan
     positions:
     - score: 0
@@ -8459,6 +8480,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -594, y: 125.125}
       region: 0
+    - score: 0
+      position: {x: -52.582153, y: 70.704285}
+      region: 3
   - streetName: Duivensteeg
     positions:
     - score: 0
@@ -8469,9 +8493,12 @@ MonoBehaviour:
     - score: 0
       position: {x: -623, y: 82.125}
       region: 0
+    - score: 0
+      position: {x: -109.671265, y: -73.52103}
+      region: 3
   - streetName: Eilandlaan
     positions:
-    - score: 0
+    - score: 1
       position: {x: -547, y: 404.12506}
       region: 0
     - score: 0
@@ -8482,6 +8509,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -481, y: 148.12506}
       region: 0
+    - score: 0
+      position: {x: 184.00012, y: 133.12506}
+      region: 3
   - streetName: Ernst Casimirlaan
     positions:
     - score: 0
@@ -8512,11 +8542,17 @@ MonoBehaviour:
     - score: 0
       position: {x: -637, y: 61.125}
       region: 0
+    - score: 0
+      position: {x: -139.71826, y: -138.12201}
+      region: 3
   - streetName: G. Schipperstraat
     positions:
     - score: 0
       position: {x: -488.00003, y: 59.125}
       region: 0
+    - score: 0
+      position: {x: 169.76526, y: -145.63373}
+      region: 3
   - streetName: Galerij
     positions:
     - score: 0
@@ -8535,6 +8571,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -490, y: 43.125}
       region: 0
+    - score: 0
+      position: {x: 165.25818, y: -199.71823}
+      region: 3
   - streetName: Gerard Doulaan
     positions:
     - score: 0
@@ -8583,6 +8622,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -631, y: 68.125}
       region: 0
+    - score: 0
+      position: {x: -124.69476, y: -124.60086}
+      region: 3
   - streetName: Havenlaan
     positions:
     - score: 0
@@ -8619,6 +8661,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -515, y: 48.125}
       region: 0
+    - score: 0
+      position: {x: 106.666626, y: -181.6901}
+      region: 3
   - streetName: Huizerpoortstraat
     positions:
     - score: 0
@@ -8647,6 +8692,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -518, y: 83.12506}
       region: 0
+    - score: 0
+      position: {x: 108.168945, y: -63.00464}
+      region: 3
   - streetName: J. van Woensel Kooylaan
     positions:
     - score: 0
@@ -8662,6 +8710,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -700, y: 159.125}
       region: 0
+    - score: 0
+      position: {x: -271, y: 181.125}
+      region: 3
   - streetName: Jacobus Verhoeflaan
     positions:
     - score: 0
@@ -8697,6 +8748,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -610, y: 114.125}
       region: 0
+    - score: 0
+      position: {x: -84.13141, y: 39.15503}
+      region: 3
   - streetName: Johan Schoonderbeeklaan
     positions:
     - score: 0
@@ -8752,6 +8806,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -617, y: 33.125}
       region: 0
+    - score: 0
+      position: {x: -108.168945, y: -219.24878}
+      region: 3
   - streetName: Kloosterstraat
     positions:
     - score: 0
@@ -8762,6 +8819,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -439, y: 149.125}
       region: 0
+    - score: 0
+      position: {x: 273, y: 154.125}
+      region: 3
   - streetName: Kolfbaan
     positions:
     - score: 0
@@ -8777,21 +8837,33 @@ MonoBehaviour:
     - score: 0
       position: {x: -598, y: 101.125}
       region: 0
+    - score: 0
+      position: {x: -39.061035, y: 18.122131}
+      region: 3
   - streetName: Kolonel Palmstraat
     positions:
     - score: 0
       position: {x: -643, y: 60.12506}
       region: 0
+    - score: 0
+      position: {x: -154.7417, y: -148.6384}
+      region: 3
   - streetName: Kolonel Verveerstraat
     positions:
     - score: 0
       position: {x: -558, y: 91.125}
       region: 0
+    - score: 0
+      position: {x: 18.028137, y: -49.48349}
+      region: 3
   - streetName: Kolonel van Brienenstraat
     positions:
     - score: 0
       position: {x: -490, y: 93.12506}
       region: 0
+    - score: 0
+      position: {x: 171.26758, y: -34.460022}
+      region: 3
   - streetName: Koningin Wilhelminalaan
     positions:
     - score: 0
@@ -8832,6 +8904,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -703, y: 122.125}
       region: 0
+    - score: 0
+      position: {x: -276, y: 62.125}
+      region: 3
   - streetName: Lisztlaan
     positions:
     - score: 0
@@ -8857,6 +8932,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -563, y: 61.125}
       region: 0
+    - score: 0
+      position: {x: 16.525818, y: -135.11725}
+      region: 3
   - streetName: Maria Louiselaan
     positions:
     - score: 0
@@ -8882,6 +8960,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -470, y: 35.12506}
       region: 0
+    - score: 0
+      position: {x: 205.82153, y: -216.24402}
+      region: 3
   - streetName: Meerweg
     positions:
     - score: 0
@@ -8912,6 +8993,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -654, y: 145.125}
       region: 0
+    - score: 0
+      position: {x: -172, y: 132.125}
+      region: 3
   - streetName: Nieuwe Haven
     positions:
     - score: 0
@@ -8927,9 +9011,12 @@ MonoBehaviour:
     - score: 0
       position: {x: -511, y: 192.125}
       region: 0
+    - score: 0
+      position: {x: 107, y: 263.125}
+      region: 3
   - streetName: Onderwal
     positions:
-    - score: 0
+    - score: 1
       position: {x: -623, y: 316.125}
       region: 0
     - score: 0
@@ -9000,6 +9087,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -677, y: 86.125}
       region: 0
+    - score: 0
+      position: {x: -232.86383, y: -56.99524}
+      region: 3
   - streetName: Prins Frederik Hendriklaan
     positions:
     - score: 0
@@ -9037,7 +9127,7 @@ MonoBehaviour:
       region: 0
   - streetName: Redan
     positions:
-    - score: 0
+    - score: 1
       position: {x: -436, y: 313.125}
       region: 0
     - score: 0
@@ -9068,11 +9158,17 @@ MonoBehaviour:
     - score: 0
       position: {x: -688, y: 116.125}
       region: 0
+    - score: 0
+      position: {x: -247, y: 37.125}
+      region: 3
   - streetName: Rubberstraat
     positions:
     - score: 0
       position: {x: -571, y: 185.125}
       region: 0
+    - score: 0
+      position: {x: 4.000122, y: 267.125}
+      region: 3
   - streetName: Rubenslaan
     positions:
     - score: 0
@@ -9113,6 +9209,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -623, y: 106.125}
       region: 0
+    - score: 0
+      position: {x: -114.178406, y: 6.103302}
+      region: 3
   - streetName: Sophialaan
     positions:
     - score: 0
@@ -9133,6 +9232,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -373, y: 97.125}
       region: 0
+    - score: 0
+      position: {x: 412, y: -22.875}
+      region: 3
   - streetName: Stadhouder Willem II laan
     positions:
     - score: 0
@@ -9151,6 +9253,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -571, y: 101.125}
       region: 0
+    - score: 0
+      position: {x: -6.0093994, y: -10.422485}
+      region: 3
   - streetName: Tenierslaan
     positions:
     - score: 0
@@ -9166,6 +9271,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -515, y: 100.125}
       region: 0
+    - score: 0
+      position: {x: 108.168945, y: -23.943634}
+      region: 3
   - streetName: Thesaurier
     positions:
     - score: 0
@@ -9204,6 +9312,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -481.99997, y: 109.125}
       region: 0
+    - score: 0
+      position: {x: 183.28638, y: 13.615051}
+      region: 3
   - streetName: Valkeveenselaan
     positions:
     - score: 0
@@ -9261,7 +9372,7 @@ MonoBehaviour:
       region: 0
   - streetName: Walgang
     positions:
-    - score: 0
+    - score: -2
       position: {x: -429, y: 277.125}
       region: 0
     - score: 0
@@ -9330,6 +9441,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -435, y: 39.125}
       region: 0
+    - score: 0
+      position: {x: 280.93896, y: -216.24402}
+      region: 3
   - streetName: van Houtenlaan
     positions:
     - score: 0
@@ -9345,6 +9459,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -429, y: 19.125}
       region: 0
+    - score: 0
+      position: {x: 295.9624, y: -297.3708}
+      region: 3
   - streetName: van Ostadelaan
     positions:
     - score: 0
@@ -9355,6 +9472,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -488.00003, y: 13.125}
       region: 0
+    - score: 0
+      position: {x: 174.27222, y: -298.8731}
+      region: 3
   - streetName: van der Helstlaan
     positions:
     - score: 0
