@@ -8246,6 +8246,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -150, y: -17.875}
       region: 0
+    - score: 0
+      position: {x: 212, y: -88.87497}
+      region: 5
   - streetName: Albert Grootlaan
     positions:
     - score: 0
@@ -8322,6 +8325,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -184, y: -35.875}
       region: 0
+    - score: 0
+      position: {x: 10, y: -202.875}
+      region: 5
   - streetName: Bernard Zweerslaan
     positions:
     - score: 0
@@ -8376,11 +8382,17 @@ MonoBehaviour:
     - score: 0
       position: {x: -298, y: -64.87494}
       region: 0
+    - score: 0
+      position: {x: -564, y: -343.87497}
+      region: 5
   - streetName: Burgemeester Wesselingplein
     positions:
     - score: 0
       position: {x: -266, y: 4.125}
       region: 0
+    - score: 0
+      position: {x: -372, y: 51.125}
+      region: 5
   - streetName: Burgemeester van Hasseltlaan
     positions:
     - score: 0
@@ -8391,11 +8403,17 @@ MonoBehaviour:
     - score: 0
       position: {x: -233, y: -19.874939}
       region: 0
+    - score: 0
+      position: {x: -221, y: -91.875}
+      region: 5
   - streetName: Cattenhagestraat
     positions:
     - score: 0
       position: {x: -247, y: 4.125}
       region: 0
+    - score: 0
+      position: {x: -261, y: 50.12506}
+      region: 5
   - streetName: Charlotte de Bourbonlaan
     positions:
     - score: 0
@@ -8488,14 +8506,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -152, y: 4.125}
       region: 0
-  - streetName: Evert de Bruijnstraat
-    positions:
     - score: 0
-      position: {x: -623, y: 82.125}
-      region: 0
-    - score: 0
-      position: {x: -109.671265, y: -73.52103}
-      region: 3
+      position: {x: 227, y: 46.125}
+      region: 5
   - streetName: Eilandlaan
     positions:
     - score: 1
@@ -8566,6 +8579,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -120, y: 13.125}
       region: 0
+    - score: 0
+      position: {x: 394.00012, y: 99.125}
+      region: 5
   - streetName: Generaal Kraijenhoffstraat
     positions:
     - score: 0
@@ -8669,6 +8685,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -113, y: 33.125}
       region: 0
+    - score: 0
+      position: {x: 426, y: 206.125}
+      region: 5
   - streetName: Huizerstraatweg
     positions:
     - score: 0
@@ -8723,6 +8742,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -150, y: 33.125}
       region: 0
+    - score: 0
+      position: {x: 246, y: 205.125}
+      region: 5
   - streetName: Jan Steenlaan
     positions:
     - score: 0
@@ -8776,6 +8798,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -81, y: -65.875}
       region: 0
+    - score: 0
+      position: {x: 590, y: -380.875}
+      region: 5
   - streetName: Karel Appellaan
     positions:
     - score: 0
@@ -8786,11 +8811,17 @@ MonoBehaviour:
     - score: 0
       position: {x: -184, y: 35.12506}
       region: 0
+    - score: 0
+      position: {x: 54.000122, y: 226.125}
+      region: 5
   - streetName: Katten
     positions:
     - score: 0
       position: {x: -118, y: 51.125}
       region: 0
+    - score: 0
+      position: {x: 407, y: 305.125}
+      region: 5
   - streetName: Keizer Ottoweg
     positions:
     - score: 0
@@ -8801,6 +8832,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -193, y: 1.1250305}
       region: 0
+    - score: 0
+      position: {x: -21, y: 0.12506104}
+      region: 5
   - streetName: Keverdijk
     positions:
     - score: 0
@@ -8814,6 +8848,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -167, y: 31.12503}
       region: 0
+    - score: 0
+      position: {x: 134.00012, y: 192.125}
+      region: 5
   - streetName: Kobaltstraat
     positions:
     - score: 0
@@ -8874,6 +8911,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -233, y: 40.12506}
       region: 0
+    - score: 0
+      position: {x: -112.99994, y: 232.125}
+      region: 5
   - streetName: Korte bedekte weg
     positions:
     - score: 0
@@ -9001,11 +9041,17 @@ MonoBehaviour:
     - score: 0
       position: {x: -235, y: 23.125}
       region: 0
+    - score: 0
+      position: {x: -225, y: 151.125}
+      region: 5
   - streetName: Nieuwe Steeg
     positions:
     - score: 0
       position: {x: -140, y: 12.125}
       region: 0
+    - score: 0
+      position: {x: 293, y: 81.125}
+      region: 5
   - streetName: Nikkelstraat
     positions:
     - score: 0
@@ -9027,6 +9073,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -91, y: 14.125}
       region: 0
+    - score: 0
+      position: {x: 553, y: 126.125}
+      region: 5
   - streetName: Oud Blaricumerweg
     positions:
     - score: 0
@@ -9037,6 +9086,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -171, y: 45.12506}
       region: 0
+    - score: 0
+      position: {x: 124.00012, y: 275.125}
+      region: 5
   - streetName: Over de Tol
     positions:
     - score: 0
@@ -9052,6 +9104,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -230, y: 6.1250305}
       region: 0
+    - score: 0
+      position: {x: -184, y: 51.125}
+      region: 5
   - streetName: Pater Wijnterlaan
     positions:
     - score: 0
@@ -9072,6 +9127,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -192, y: -31.875}
       region: 0
+    - score: 0
+      position: {x: 17, y: -155.875}
+      region: 5
   - streetName: Piersonlaan
     positions:
     - score: 0
@@ -9082,6 +9140,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -117, y: 23.125}
       region: 0
+    - score: 0
+      position: {x: 395, y: 152.125}
+      region: 5
   - streetName: Plein 1940-1945
     positions:
     - score: 0
@@ -9125,6 +9186,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -150, y: 12.125}
       region: 0
+    - score: 0
+      position: {x: 247, y: 94.125}
+      region: 5
   - streetName: Redan
     positions:
     - score: 1
@@ -9138,6 +9202,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -168, y: 20.125061}
       region: 0
+    - score: 0
+      position: {x: 139.00012, y: 135.125}
+      region: 5
   - streetName: Rembrandtlaan
     positions:
     - score: 0
@@ -9179,6 +9246,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -121, y: -1.875}
       region: 0
+    - score: 0
+      position: {x: 382, y: 8.125}
+      region: 5
   - streetName: "R\xF6elllaan"
     positions:
     - score: 0
@@ -9222,11 +9292,17 @@ MonoBehaviour:
     - score: 0
       position: {x: -193, y: -10.875}
       region: 0
+    - score: 0
+      position: {x: -12, y: -52.875}
+      region: 5
   - streetName: St. Vitusstraat
     positions:
     - score: 0
       position: {x: -253, y: -11.875}
       region: 0
+    - score: 0
+      position: {x: -324, y: -58.87497}
+      region: 5
   - streetName: Staalstraat
     positions:
     - score: 0
@@ -9307,6 +9383,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -183, y: -21.875}
       region: 0
+    - score: 0
+      position: {x: 49.000122, y: -99.87494}
+      region: 5
   - streetName: Vaartweg
     positions:
     - score: 0
@@ -9388,6 +9467,9 @@ MonoBehaviour:
     - score: 0
       position: {x: -220, y: -47.875}
       region: 0
+    - score: 0
+      position: {x: -142.99994, y: -256.875}
+      region: 5
   - streetName: "Wethouder K\xF6niglaan"
     positions:
     - score: 0
@@ -9398,11 +9480,17 @@ MonoBehaviour:
     - score: 0
       position: {x: -168, y: 34.125}
       region: 0
+    - score: 0
+      position: {x: 145, y: 225.125}
+      region: 5
   - streetName: Wijde Steeg
     positions:
     - score: 0
       position: {x: -232, y: -8.8749695}
       region: 0
+    - score: 0
+      position: {x: -197.99994, y: -29.874939}
+      region: 5
   - streetName: Wijkplaats
     positions:
     - score: 0
@@ -9416,11 +9504,17 @@ MonoBehaviour:
     - score: 0
       position: {x: -158, y: 16.12503}
       region: 0
+    - score: 0
+      position: {x: 198, y: 113.12506}
+      region: 5
   - streetName: Zusterenstraat
     positions:
     - score: 0
       position: {x: -127, y: 48.125}
       region: 0
+    - score: 0
+      position: {x: 367, y: 289.12506}
+      region: 5
   - streetName: Zwarteweg
     positions:
     - score: 0
@@ -9520,6 +9614,11 @@ MonoBehaviour:
     - score: 0
       position: {x: 704, y: 245.125}
       region: 0
+  - streetName: Niuew Haven
+    positions:
+    - score: 0
+      position: {x: -224, y: 149.125}
+      region: 5
 --- !u!1 &1095786776
 GameObject:
   m_ObjectHideFlags: 0
