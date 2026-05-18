@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Splines;
 
 public enum Region
 {
@@ -14,6 +15,6 @@ public enum Region
 public class MapPosition
 {
     public int score;
-    public Vector2 position;
+    public Spline position;
     public Region region;
 }

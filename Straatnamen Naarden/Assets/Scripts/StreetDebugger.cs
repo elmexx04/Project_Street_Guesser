@@ -23,7 +23,7 @@ public class StreetDebugger : MonoBehaviour
                     GameObject marker = Instantiate(markerPrefab, markerParent);
 
                     RectTransform rt = marker.GetComponent<RectTransform>();
-                    rt.anchoredPosition = pos.position;
+                    // rt.anchoredPosition = pos.position;
 
                     marker.name = street.streetName;
 

@@ -33,11 +33,11 @@ public class StreetCreator : MonoBehaviour
         if (existingStreet != null)
         {
             // Voeg nieuwe map positie toe
-            existingStreet.positions.Add(new MapPosition
-            {
-                region = region,
-                position = pos
-            });
+            // existingStreet.positions.Add(new MapPosition
+            // {
+            //     region = region,
+            //     position = pos
+            // });
 
             Debug.Log("Positie toegevoegd aan bestaande straat: " + streetName);
         }
@@ -47,11 +47,11 @@ public class StreetCreator : MonoBehaviour
             StreetData newStreet = new StreetData();
             newStreet.streetName = streetName;
 
-            newStreet.positions.Add(new MapPosition
-            {
-                region = region,
-                position = pos
-            });
+            // newStreet.positions.Add(new MapPosition
+            // {
+            //     region = region,
+            //     position = pos
+            // });
 
             database.streets.Add(newStreet);
 

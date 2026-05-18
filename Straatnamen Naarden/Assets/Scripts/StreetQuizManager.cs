@@ -13,7 +13,7 @@ public class StreetQuizManager : MonoBehaviour
     private StreetData currentStreet;
     private StreetData lastStreet;
     private bool poolInitialized = false;
-    
+
 
     void Start()
     {
@@ -24,10 +24,10 @@ public class StreetQuizManager : MonoBehaviour
     {
         if (currentStreet == null) return;
 
-        Vector2 correctPos = currentStreet.GetPositionForRegion(selectMode.currentRegion);
+        // Vector2 correctPos = currentStreet.GetPositionForRegion(selectMode.currentRegion);
 
         wrongMarker.SetActive(true);
-        wrongMarker.GetComponent<RectTransform>().anchoredPosition = correctPos;
+        // wrongMarker.GetComponent<RectTransform>().anchoredPosition = correctPos;
 
         Debug.Log("Vraag geskipt: " + currentStreet.streetName);
 
@@ -62,7 +62,7 @@ public class StreetQuizManager : MonoBehaviour
     public void PickRandomStreet()
     {
         Region currentRegion = selectMode.currentRegion;
-      
+
         List<StreetData> validStreets = new List<StreetData>();
         bool allLearned = true;
 
@@ -130,7 +130,7 @@ public class StreetQuizManager : MonoBehaviour
 
         Debug.Log("Gekozen straat: " + currentStreet.streetName);
 
-        
+
         mapClick.ResetClick();
         mapClick.canClick = true;
 
@@ -172,7 +172,7 @@ public class StreetQuizManager : MonoBehaviour
             Debug.Log("Nog niet geklikt!");
             return;
         }
-        
+
         checkButton.SetActive(false);
         nextQuestionButton.SetActive(true);
         skipButton.SetActive(false);
@@ -181,9 +181,9 @@ public class StreetQuizManager : MonoBehaviour
         Vector2 guess = mapClick.lastClickPosition;
 
         // juiste positie ophalen
-        Vector2 correctPos = currentStreet.GetPositionForRegion(selectMode.currentRegion);
+        // Vector2 correctPos = currentStreet.GetPositionForRegion(selectMode.currentRegion);
 
-        float distance = Vector2.Distance(guess, correctPos);
+        float distance = currentStreet.GetDistanceFromRegion(selectMode.currentRegion, guess);
 
         Debug.Log("Distance: " + distance);
 
@@ -194,8 +194,8 @@ public class StreetQuizManager : MonoBehaviour
         {
             Debug.Log("Correct!");
 
-            correctMarker.SetActive(true);
-            correctMarker.GetComponent<RectTransform>().anchoredPosition = correctPos;
+            // correctMarker.SetActive(true);
+            // correctMarker.GetComponent<RectTransform>().anchoredPosition = correctPos;
             currentStreet.positions[0].score += pointsForCorrect;
 
             if (currentStreet.positions[0].score >= scoreForNext)
@@ -214,7 +214,7 @@ public class StreetQuizManager : MonoBehaviour
                 currentStreet.positions[0].score = scoreForNext;
             }
             else
-            { 
+            {
                 feedbackText.text = "Correct!";
             }
         }
@@ -223,11 +223,11 @@ public class StreetQuizManager : MonoBehaviour
             Debug.Log("Fout!");
 
             wrongMarker.SetActive(true);
-            wrongMarker.GetComponent<RectTransform>().anchoredPosition = correctPos;
+            // wrongMarker.GetComponent<RectTransform>().anchoredPosition = correctPos;
 
-            DrawLine(guess, correctPos);
+            // DrawLine(guess, correctPos);
 
-            Debug.Log("drawline van " + guess + " naar " + correctPos);
+            // Debug.Log("drawline van " + guess + " naar " + correctPos);
 
             feedbackText.text = "Fout! Je zat " + Mathf.RoundToInt(distance) + " units van de juiste locatie.";
 
